@@ -1,0 +1,56 @@
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('https://media.discordapp.net/attachments/1015696404729049150/1112906033711554652/Gift-Carlos.gif?width=1440&height=663');
+      background-size: cover;
+      font-family: Arial, sans-serif;
+    }
+
+
+    .content {
+      text-align: center;
+      padding: 50px;
+      color: #fff;
+    }
+
+   
+    h1 {
+      font-size: 48px;
+      margin-bottom: 20px;
+    }
+
+  
+    p {
+      font-size: 24px;
+      margin-bottom: 40px;
+    }
+
+
+    .button-container {
+      display: table;
+      margin: 0 auto;
+    }
+
+  
+    .button-container td {
+      padding: 10px;
+    }
+
+   
+    .button-container a {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #fff;
+      color: #000;
+      text-decoration: none;
+      font-size: 20px;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+
+  
+    .button-container a:hover {
+      background-color: #000;
+      color: #fff;
+    }
